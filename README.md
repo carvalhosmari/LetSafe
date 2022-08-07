@@ -22,13 +22,10 @@ As entidades utilizadas no projeto são *Segurado*, *Endereço*, *Apólice*, *Si
 
 #### Modelagem conceitual:
 
-![](C:\Users\Mariane\Desktop\Conceitual.jpeg)
-
-
+![Conceitual](https://user-images.githubusercontent.com/89077179/183309273-23acef95-6453-406d-8ab5-5c14535fcf06.jpeg)
 
 #### Modelagem lógica:
 
-![](C:\Users\Mariane\Desktop\Logico.jpeg)
-
+![Logico](https://user-images.githubusercontent.com/89077179/183309281-06e5cdc7-fadf-4e0a-b6f2-bce2da2ce728.jpeg)
 
 
